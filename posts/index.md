@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Posts"
-background: '../cover-goblin.jpg'
+background: '/cover-goblin.jpg'
 ---
 
 <table class="table table-striped">
