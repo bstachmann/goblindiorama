@@ -17,7 +17,7 @@ title: Goblindiorama
 email: familystachmann@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Annika und Bjørn malen und basteln.
-baseurl: "goblindiorama/" # the subpath of your site, e.g. /blog
+baseurl: "/goblindiorama/" # the subpath of your site, e.g. /blog
 url: "https://bstachmann.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #twitter_username: jekyllrb
