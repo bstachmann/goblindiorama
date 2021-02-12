@@ -2,7 +2,7 @@
 layout: page
 title: "Das Goblindiorama"
 author: bst
-background: 'streifen.jpg'
+background: '/goblindiorama/streifen.jpg'
 ---
 
 ![Verpackung](1-verpackung.jpg)

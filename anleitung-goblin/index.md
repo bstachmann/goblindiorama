@@ -2,7 +2,7 @@
 layout: page
 title: "Kleiner Goblin (Anleitung)"
 author: bst
-background: 'pinsel-und-haende.jpg'
+background: '/anleitung-goblin/pinsel-und-haende.jpg'
 ---
 
 ## Schritt 1

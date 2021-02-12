@@ -3,7 +3,7 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
-background: 'cover-goblin.jpg'
+background: '/cover-goblin.jpg'
 ---
 
 <a class="btn btn-primary" href="/posts">Direkt zum Goblindiorama &rarr;</a>
