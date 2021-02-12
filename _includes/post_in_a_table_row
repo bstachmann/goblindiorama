@@ -1,6 +1,6 @@
 <tr>
   <td>
-    <h5><a href="{{ current_post.url }}">{{current_post.title}}</a>
+    <h5><a href="{{ current_post.url | relative_url }}">{{current_post.title}}</a>
     vom {{ current_post.date | date: "%-d.%m.%Y" }}</h5>
   </td>
 
