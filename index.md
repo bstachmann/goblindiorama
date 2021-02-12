@@ -6,4 +6,4 @@ layout: home
 background: '/cover-goblin.jpg'
 ---
 
-<a class="btn btn-primary" href="/posts">Direkt zum Goblindiorama &rarr;</a>
+<a class="btn btn-primary" href="goblindiorama">Direkt zum Goblindiorama &rarr;</a>
