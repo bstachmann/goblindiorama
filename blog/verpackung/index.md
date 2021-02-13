@@ -2,7 +2,7 @@
 layout: post
 title:  "Es begann mit einer Verpackung"
 categories: blog
-date: 2021-01-16 00:00:00 +0100
+date: 2021-01-16
 background: '/goblindiorama/1-verpackung.jpg'
 ---
 
