@@ -2,14 +2,10 @@
 layout: page
 ---
 
-# Raw
-
-URL {{ site.github }}
-
 
 # Repo
 
- URL {{ site.github.html_url }}
+ URL {{ site.github.repository_url }}
 
  [REV {{ site.github.build_revision }}]({{ site.github.html_url }}/commits/{{ site.github.build_revision }})
 
