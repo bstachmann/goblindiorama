@@ -42,4 +42,6 @@ background: '/cover-goblin.jpg'
 
 MOIN
 
-{%= site.github %}
+{{ site.github }}
+
+Schuess
