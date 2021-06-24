@@ -2,15 +2,11 @@
 layout: page
 ---
 
-# Raw
-
-    {{ site.github }}
-
 # Repo
 
  URL {{ site.github.html_url }}
 
- [REV {{ site.github.build_revision }}]({{ site.github.html_url }}/commits/{{ site.github.revision }})
+ [REV {{ site.github.build_revision }}]({{ site.github.html_url }}/commits/{{ site.github.build_revision }})
 
 # Releases
 
