@@ -2,11 +2,11 @@
 layout: page
 ---
 
+{{ site.github.latest_release.html_url }}
 
 MOIN
 
- * rev: {{ site.github.build_revision }} 
- * latest_release.html_url: {{ site.github.latest_release.html_url }}
- * latest_release.tag_name: {{ site.github.latest_release.tag_name }}
+ * latest_release:  * rev: {{ site.github.build_revision }} 
+ * [ {{ site.github.latest_release.tag_name }}]({{ site.github.latest_release.html_url }}) 
 
 Schuess
