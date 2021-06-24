@@ -7,7 +7,7 @@ layout: page
 
  URL {{ site.github.repository_url }}
 
- [REV {{ site.github.build_revision }}]({{ site.github.html_url }}/commits/{{ site.github.build_revision }})
+ [REV {{ site.github.build_revision }}]({{ site.github.repository_url }}/commits/{{ site.github.build_revision }})
 
 # Releases
 
