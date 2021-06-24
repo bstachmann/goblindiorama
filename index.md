@@ -38,10 +38,4 @@ background: '/cover-goblin.jpg'
 {% endfor %}
 
 
----
 
-MOIN
-
-{{ site.github }}
-
-Schuess
