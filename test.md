@@ -4,11 +4,11 @@ layout: page
 
 # Raw
 
-    {{ site.github.latest_release.html_url }}
+    {{ site.github }
 
 # Releases
 
-{% for release in site.releases %}
+{% for release in site.github.releases %}
   * {{ release.tag_name }} {{ release.name }}
 {% endfor %}
 
