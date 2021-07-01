@@ -21,4 +21,4 @@ layout: page
 
 # OK
 
-{{ site.github.latest_release }}
+{{ site.github }}
