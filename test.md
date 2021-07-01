@@ -20,3 +20,5 @@ layout: page
  * [ {{ site.github.latest_release.tag_name }}]({{ site.github.latest_release.html_url }}) 
 
 # OK
+
+{{ site.github.latest_release }}
