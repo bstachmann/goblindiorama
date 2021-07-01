@@ -12,7 +12,7 @@ layout: page
 # Releases
 
 {% for release in site.github.releases %}
-  * [{{ release.tag_name }} {{ release.name }}]({{ release.html_url }})
+  * [{{ release.tag_name }} {{ release.name }}]({{ release.html_url }})\
 {% endfor %}
 
 # Latest
@@ -21,4 +21,3 @@ layout: page
 
 # OK
 
-{{ site.github }}
